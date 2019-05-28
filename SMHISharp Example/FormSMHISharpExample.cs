@@ -137,5 +137,10 @@ namespace Piksel.SMHISharp.Example
                 olvStations.SelectedItem.EnsureVisible();
             }
         }
+
+        private void BNext_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
